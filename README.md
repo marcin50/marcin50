@@ -1,4 +1,8 @@
 ### Hi there 👋
+ 🔭 I’m currently working on ...
+1. GatsbyJS/React, GraphQL practice project
+1. Android Studio practice project
+1. Python machine learning
 
 <!--
 **marcin50/marcin50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
